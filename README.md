@@ -1,0 +1,4 @@
+GANproject
+==========
+
+Project for GAN
